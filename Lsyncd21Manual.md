@@ -1,0 +1,1 @@
+The manual is now homed here: https://github.com/axkibe/lsyncd/wiki/Manual-to-Lsyncd-2.1.x

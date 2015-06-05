@@ -1,0 +1,1 @@
+Lsyncd´s revision control is at github: https://github.com/axkibe/lsyncd
